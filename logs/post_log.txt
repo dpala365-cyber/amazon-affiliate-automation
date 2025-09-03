@@ -1,0 +1,18 @@
+INFO:root:[2025-09-01 10:07:49] Running TikTok post script (target time: 23:00)
+INFO:root:⚠️ No videos found even after recycle. Skipping post.
+INFO:root:[2025-09-01 10:13:56] Running TikTok post script (target time: 23:00)
+INFO:root:⚠️ No videos found even after recycle. Skipping post.
+INFO:root:[2025-09-01 10:40:43] Running TikTok post script (target time: LIVE_DEPLOY)
+INFO:root:⚠️ No videos found even after recycle. Skipping post.
+INFO:root:[2025-09-01 10:41:33] Running TikTok post script (target time: LIVE_DEPLOY)
+INFO:root:⚠️ No videos found even after recycle. Skipping post.
+INFO:root:[2025-09-01 11:00:47] Running TikTok post script (target time: LIVE_DEPLOY)
+INFO:root:⚠️ No videos found even after recycle. Skipping post.
+INFO:root:[2025-09-01 11:19:50] Running TikTok post script (target time: LIVE_DEPLOY)
+INFO:root:Generated caption: Don’t scroll without watching! 🚀 #tiktokviral #explore #funny #viral #foryou
+INFO:root:✅ Posted video /home/dav25/mysite_dashboard/videos/video1.mp4 with caption: Don’t scroll without watching! 🚀 #tiktokviral #explore #funny #viral #foryou
+INFO:root:📦 Moved /home/dav25/mysite_dashboard/videos/video1.mp4 → /home/dav25/mysite_dashboard/posted/video1.mp4
+INFO:root:[2025-09-01 11:21:22] Running TikTok post script (target time: LIVE_DEPLOY)
+INFO:root:Generated caption: Secrets they don’t want you to know 👀 #global #inspiration #wow #fyp #funny
+INFO:root:✅ Posted video /home/dav25/mysite_dashboard/videos/video1.mp4 with caption: Secrets they don’t want you to know 👀 #global #inspiration #wow #fyp #funny
+INFO:root:📦 Moved /home/dav25/mysite_dashboard/videos/video1.mp4 → /home/dav25/mysite_dashboard/posted/video1.mp4

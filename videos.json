@@ -1,0 +1,12 @@
+[
+  {
+    "video_path": "/home/dav25/mysite_dashboard/videos/video1.mp4",
+    "caption": "Don’t scroll without watching! 🚀",
+    "hashtags": ["#fyp","#viral","#trending"]
+  },
+  {
+    "video_path": "/home/dav25/mysite_dashboard/videos/video2.mp4",
+    "caption": "This is amazing! 😎",
+    "hashtags": ["#viral","#foryou","#trend"]
+  }
+]
