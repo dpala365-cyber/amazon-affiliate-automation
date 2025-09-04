@@ -205,5 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
-.env
-.env
+<<<<<<< HEAD
+# content from main
+=======
+# content from recovered-branch
+>>>>>>> recovered-branch
